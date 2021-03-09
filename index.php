@@ -1,5 +1,5 @@
 <?php
 include('top-cache.php'); 
-include('product-details.html');
+include('index.html');
 include('bottom-cache.php');
 ?>
